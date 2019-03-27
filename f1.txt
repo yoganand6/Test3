@@ -1,1 +1,6 @@
 insert f1.txt
+line1
+line2
+
+line20
+line40
